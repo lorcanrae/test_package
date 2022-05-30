@@ -27,3 +27,6 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+# packages
+git+ssh://git@github.com/lorcanrae/test_package
