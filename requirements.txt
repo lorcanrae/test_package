@@ -30,3 +30,4 @@ termcolor
 
 # packages
 git+ssh://git@github.com/LukeG28/my_package
+git+ssh://git@github.com/theebak31/mypackage2
