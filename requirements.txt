@@ -29,5 +29,5 @@ memoized-property
 termcolor
 
 # packages
-git+ssh://git@github.com/LukeG28/my_package
-git+ssh://git@github.com/theebak31/mypackage2
+git+https://git@github.com/LukeG28/my_package
+git+https://git@github.com/theebak31/mypackage2
